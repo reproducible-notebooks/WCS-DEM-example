@@ -5,3 +5,5 @@ dependencies:
   - xarray
   - rasterio
   - hvplot
+  - datashader
+  - geoviews
