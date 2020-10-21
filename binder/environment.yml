@@ -7,4 +7,5 @@ dependencies:
   - hvplot
   - datashader
   - geoviews
+  - xrspatial
   - nbgitpuller
