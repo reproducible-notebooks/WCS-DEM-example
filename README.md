@@ -1,2 +1,2 @@
 # WCS-DEM-example
-Example getting DEM data from a WCS server
+This branch is only for the binder environment
